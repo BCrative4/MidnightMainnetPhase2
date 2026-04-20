@@ -97,3 +97,4 @@ But with one key difference:
 ________________________________________
 🔑 One-Line Summary
 Phase 2 Mainnet means builders graduate from writing contracts to engineering production-ready, privacy-preserving systems where circuits, proofs, and applications must all be optimized, verified, and deployment-approved before hitting global execution.
+Midnight Network
